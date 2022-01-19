@@ -1,0 +1,20 @@
+add reg1 reg2 reg3
+sub reg1 reg2 reg3
+mov reg1 $Imm
+mov reg1 reg2
+ld reg1 mem_addr
+st reg1 mem_addr
+mul reg1 reg2 reg3
+div reg3 reg4
+rs reg1 $Imm
+ls reg1 $Imm
+xor reg1 reg2 reg3
+or reg1 reg2 reg3
+and reg1 reg2 reg3
+not reg1 reg2
+cmp reg1 reg2
+jmp mem_addr
+jlt mem_addr
+jgt mem_addr
+je mem_addr
+hlt

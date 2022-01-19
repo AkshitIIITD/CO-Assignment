@@ -1,0 +1,20 @@
+add R1 R2 R3
+sub R2 R3 R4
+mov R2 $5
+mov R3 R2
+ld reg1 mem_addr
+st reg1 mem_addr
+mul R4 R3 R2
+label1: div R4 R2
+rs R2 $2
+label2: ls R2 $3
+xor R0 R4 R2
+or R1 R4 R2
+and R5 R4 R2
+label3: not R6 R2
+cmp R1 R2
+jmp label2:
+jlt label2:
+jgt label2:
+je label2:
+hlt

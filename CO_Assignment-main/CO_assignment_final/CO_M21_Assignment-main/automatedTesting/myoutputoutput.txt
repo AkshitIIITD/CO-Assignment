@@ -1,0 +1,221 @@
+[93m[1m==================================================[0m
+[93m[1m================ TESTING ASSEMBLER ===============[0m
+[93m[1m==================================================[0m
+
+[94m[1mRuning simple tests[0m
+[91m[FAILED][0m test1
+[91m[FAILED][0m test2
+[91m[FAILED][0m test3
+[91m[FAILED][0m test4
+[91m[FAILED][0m test5
+[94m[1m
+Running hard tests[0m
+[91m[FAILED][0m test1
+[91m[FAILED][0m test2
+[94m[1mRunning error tests[0m
+[96mRunning test1[0m
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+Undefined variable error
+typo in instruction name
+Undefined variable error
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+0000000001010011
+0000100010011100
+0001001000000101
+0001100000011010
+0011000100011010
+0011100000100010
+0011100000100010
+0100001000000010
+0100101000000011
+0100101000000011
+0101000000100010
+0101100001100010
+0110000101100010
+0110100000110010
+0110100000110010
+0111000000001010
+0111100000001011
+1000000000001011
+1000100000001011
+1001000000001011
+1001100000000000
+============================================
+
+[96mRunning test2[0m
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+Undefined variable error
+typo in instruction name
+Undefined variable error
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+0000000001010011
+0000100010011100
+0001001000000101
+0001100000011010
+0011000100011010
+0011100000100010
+0011100000100010
+0100001000000010
+0100101000000011
+0100101000000011
+0101000000100010
+0101100001100010
+0110000101100010
+0110100000110010
+0110100000110010
+0111000000001010
+0111100000001011
+1000000000001011
+1000100000001011
+1001000000001011
+1001100000000000
+============================================
+
+[96mRunning test3[0m
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+Undefined variable error
+typo in instruction name
+Undefined variable error
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+0000000001010011
+0000100010011100
+0001001000000101
+0001100000011010
+0011000100011010
+0011100000100010
+0011100000100010
+0100001000000010
+0100101000000011
+0100101000000011
+0101000000100010
+0101100001100010
+0110000101100010
+0110100000110010
+0110100000110010
+0111000000001010
+0111100000001011
+1000000000001011
+1000100000001011
+1001000000001011
+1001100000000000
+============================================
+
+[96mRunning test4[0m
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+Undefined variable error
+typo in instruction name
+Undefined variable error
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+typo in instruction name
+0000000001010011
+0000100010011100
+0001001000000101
+0001100000011010
+0011000100011010
+0011100000100010
+0011100000100010
+0100001000000010
+0100101000000011
+0100101000000011
+0101000000100010
+0101100001100010
+0110000101100010
+0110100000110010
+0110100000110010
+0111000000001010
+0111100000001011
+1000000000001011
+1000100000001011
+1001000000001011
+1001100000000000
+============================================
+
+[93m[1m==================================================[0m
+[93m[1m================ TESTING SIMULATOR ===============[0m
+[93m[1m==================================================[0m
+
+[94m[1mRuning simple tests[0m
+[91m[FAILED][0m test1
+[91m[FAILED][0m test2
+[91m[FAILED][0m test3
+[91m[FAILED][0m test4
+[91m[FAILED][0m test5
+[94m[1m
+Running hard tests[0m
+[91m[FAILED][0m test1
+[91m[FAILED][0m test2
+
+============== RESULTS =================
+
+Assembler ===>
+[95mSimple: Marks = 0 out of 10
+Hard: Marks = 0 out of 10
+[1m[92mTotal: 0 out of 20
+[0mSimulator ===>
+[95mSimple: Marks = 0 out of 10
+Hard: Marks = 0 out of 10
+[1m[92mTotal: 0 out of 20
+[0m
